@@ -8,7 +8,7 @@ Primeira Calculadora com JAVA
 | :label: Tecnologias | Java
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/jonathanimolesi/JavaGuanabara/blob/main/superCalc.png#vitrinedev)
 
 ## Detalhes do projeto
 
